@@ -15,6 +15,7 @@ This repository holds Dale's reference material for Unreal Engine work. Read thi
 | Ultra Modular Landscape (UML) | [`docs/uml/UML-Technical-Guide.md`](docs/uml/UML-Technical-Guide.md) | `Ultra Modular Landscape Documentation.docx` |
 
 - For UML questions, search or read `docs/uml/UML-Technical-Guide.md` before answering. Screenshots are in `docs/uml/images/`.
+- `docs/uml/UML Quick-Start Cheat Sheet.docx` is a condensed Word cheat sheet made from the guide for Dale. If the guide is updated, offer to regenerate it.
 - The `.docx` is the source of truth. The Markdown copy was generated from it and shouldn't be edited by hand.
 
 ### Version caveat: guide targets UE 5.6, Dale uses 5.8
